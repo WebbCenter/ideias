@@ -1,6 +1,9 @@
 @font-face{
   font-family: 'Action Man';
-  src: url('fonts/ActionMan.ttf') format('truetype');
+  src: url('fonts/ActionMan.ttf') format('truetype'),
+  url('fonts/ActionMan.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
 }
 
 *,
